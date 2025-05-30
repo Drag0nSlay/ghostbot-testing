@@ -6,7 +6,7 @@ A simple workaround to run a background Python bot alongside a Flask web app —
 
 Many cloud platforms offer free hosting for websites, but not for background workers or bots. This project combines:
 
-- A background bot process (like a Discord or Telegram bot).
+- A background bot process (like a Discord/Telegram/Twilio bot or background running stuff).
 - A lightweight Flask app that acts as a web interface.
 - A Docker-based setup that runs both together in one container.
 
