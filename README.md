@@ -23,6 +23,7 @@ This project is compatible with most modern cloud platforms that support Docker 
 - Render
 - Koyeb
 - Railway (limited)
+- Vercel
 - Any VPS or container host
 
 ## 🔗 How to Use
@@ -34,5 +35,7 @@ Main file should contain the flask/django app and bot file should contain the bo
 ## 🧠 Credits
 
 Created as a creative solution for deploying bots on free hosting services.
+
+## Made with ♥ By FighterX
 
 MIT License – use it freely.
